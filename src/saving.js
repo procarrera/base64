@@ -17,5 +17,5 @@ module.exports = async function saving(decoded_file) {
       console.log(err); // writes out file without error, but it's not a valid image
     }
   );
-  return console.log(token);
+  return { filename: token + ".svg", local: local };
 };
