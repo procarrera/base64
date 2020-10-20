@@ -7,7 +7,7 @@
         <div align="center">
             <img id="logo" alt="Next Level Week" src="https://user-images.githubusercontent.com/53456120/96530749-712e0800-125e-11eb-9060-f3077f3b49e5.png" height="180px" />
     </div>
-    <br/> <br/>
+    <br/>
     <div align="center">
       <a href="#project">Project</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;
       <a href="#stack">Stack</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;
@@ -21,23 +21,16 @@
 <div id="about">
 
 ## { About }
-Share your github profile with others nerds ;) <br>
-i made this project to learn about node, rest API, mongodb, react and deploy in a realistc world using Vercel.
-</br>
-<a id="link" href="https://share-me.now.sh"> https://share-me.now.sh </a>
-
+I created this project to learn about API, encode files, decode and save files locally.
+My API receives and url image, converts into base64, decode and save :)
 </div>
 
 <div id="stack">
        
 ## { Stack & Techs }
 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/RESPONSIVE-YES-brightgreen"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <br/>
 <img src="https://img.shields.io/badge/REST%20API-YES-brightgreen"/>
 
@@ -46,20 +39,18 @@ i made this project to learn about node, rest API, mongodb, react and deploy in 
 <div id="demo">
         
 ## { Demo }
-LINK: <a id="link" href="https://share-me.now.sh"> https://share-me.now.sh </a>
-<img align="center" alt="Next Level Week" src="https://user-images.githubusercontent.com/53456120/96350280-90c10700-108b-11eb-8220-2171f7256af2.png" width="1000px"/>
+<img align="center" alt="Next Level Week" src="https://user-images.githubusercontent.com/53456120/96533607-873ec700-1264-11eb-9869-30e9b8c3a5f7.png" width="1000px"/>
 </div>
 
 <div id="features">
         
 ## { Features }
-- [x] User Sing up
-- [x] MongoDB database
-- [x] Search field
-- [x] Sort by top results using Mongo Indexes
-- [x] NewsAPI integrated
-- [x] GitHub API integrated
-
+- [x] Route for API
+- [x] Encode base64 from url image
+- [x] Decode/Buffer
+- [x] Generate binary files
+- [x] Save locally
+- [ ] Save in the cloud
 </div>
 
 <div id="contact">
